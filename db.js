@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const DB_URL = 'mongodb://localhost:27017/recruiters_library';
-// const DB_URL = process.env.DB_URL || 'mongodb://localhost:27017/soamee_books';
+// const DB_URL = process.env.DB_URL || 'mongodb://localhost:27017/recruiters_library';
 
 const DB_CONFIG = {
     useNewUrlParser: true,
