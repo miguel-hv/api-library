@@ -22,7 +22,7 @@ app.use(cors({
 
 const router = express.Router();
 const booksRoutes = require('./routes/books.routes');
-// const bookRoutes = require('./routes/book.routes');
+const bookRoutes = require('./routes/book.routes');
 
 const { urlencoded } = require('express');
 
@@ -31,7 +31,7 @@ app.use(express.json());
 app.use(urlencoded({ extended: false }));
 
 app.use('/books', booksRoutes);
-// app.use('/book', bookRoutes);
+app.use('/book', bookRoutes);
 
 app.use('/', router);
 
