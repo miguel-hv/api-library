@@ -1,8 +1,13 @@
 # El proyecto
-Se trata de una biblioteca personal donde puedes publicar tu libro preferido. Si no te he pasado personalmente la página, por favor pide permiso antes de publicar. 
+Se trata de una aplicación de estilo lista de tareas donde publicar libros para crear una biblioteca personal.
+
+![desktop screenshot](https://res.cloudinary.com/dsxnjgo2i/image/upload/v1661241153/Recruiter%20Library/tabs_desktop_a2btiy.png)
+
+![mobile screenshot](https://res.cloudinary.com/dsxnjgo2i/image/upload/v1661241152/Recruiter%20Library/tabs_mobile_uu9i0q.png)
+
 
 ## Propósito
-El propósito de este proyecto es poder demostrar de forma breve mis conocimientos con [React](https://github.com/miguel-hv/front-library) y Node, usando Tailwind para los estilos. 
+El propósito de este proyecto es poder demostrar de forma breve mis conocimientos con [React](https://github.com/miguel-hv/front-library) y Node, usando Tailwind para los estilos y Mongo para la base de datos. 
 Es un proyecto completamente original, todo el código front y back es mío, aunque es verdad que usé presets para los estilos.
 
 ## De cara al futuro
